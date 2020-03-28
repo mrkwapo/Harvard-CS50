@@ -11,7 +11,7 @@ Problem sets 6 completed in Python.
 
 # Problem Sets
 
- [Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") 
+* [Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") 
     * [Mario](https://github.com/RdotSilva/Harvard-CS50/blob/master/PSET1/mario "mario") 
     * [Cash](https://github.com/RdotSilva/Harvard-CS50/blob/master/PSET1/cash "cash") 
 
