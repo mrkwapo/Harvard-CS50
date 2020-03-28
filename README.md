@@ -11,7 +11,7 @@ Problem sets 6 completed in Python.
 
 # Problem Sets
 
-![picture alt](https://camo.githubusercontent.com/d63d03683c4377877778d52cef9e48d0b65d8fff/68747470733a2f2f692e696d6775722e636f6d2f7550644e7752332e6a70672e "C")
+![picture alt](https://www.onlyjavatech.com/assets/img/topic/What-is-C.png "C")
 * [Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") 
     * [Mario](https://github.com/mrkwapo/CS50/blob/master/C/mario.c "mario") 
     * [Cash](https://github.com/mrkwapo/CS50/blob/master/C/cash.c "cash") 
