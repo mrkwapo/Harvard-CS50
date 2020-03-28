@@ -11,13 +11,9 @@ Problem sets 6 completed in Python.
 
 # Problem Sets
 
-C | Javascript HTML & CSS | Python
---|------------|---------
-[Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") | [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5") | [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5")
-[Problem Set 2](https://docs.cs50.net/2019/x/psets/2/index.html "Problem Set 2") | Javascript | Python
-[Problem Set 3](https://docs.cs50.net/2019/x/psets/3/index.html "Problem Set 3") | Javascript | Python
-  
  [Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") 
+    * [Mario](https://github.com/RdotSilva/Harvard-CS50/blob/master/PSET1/mario "mario") 
+    * [Cash](https://github.com/RdotSilva/Harvard-CS50/blob/master/PSET1/cash "cash") 
 
  [Problem Set 2](https://docs.cs50.net/2019/x/psets/2/index.html "Problem Set 2") 
 
