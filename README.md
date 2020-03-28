@@ -29,7 +29,7 @@ Problem sets 6 completed in Python.
 * [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5") 
     * [Homepage](https://github.com/mrkwapo/CS50/tree/master/JavaScript/homepage "Homepage") 
  
- ![picture alt](https://camo.githubusercontent.com/78f0a9632dbbbf3a7d35c99f3c9ed7b064687118/68747470733a2f2f692e696d6775722e636f6d2f5368656f6159782e706e6729 "Python")
+ ![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYgcs1ERvgMi3rDswp7zcfbtyqfxunhYm5nFa-B5s_jBk4nzvM "Python")
 * [Problem Set 6](https://docs.cs50.net/2019/x/psets/6/index.html "Problem Set 6")
     * [Hello](https://github.com/mrkwapo/CS50/blob/master/Python/hello.py "Hello") 
     * [Mario](https://github.com/mrkwapo/CS50/blob/master/Python/mario.py "mario") 
