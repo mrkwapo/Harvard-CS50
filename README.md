@@ -25,11 +25,11 @@ Problem sets 6 completed in Python.
     * [Resize](https://github.com/mrkwapo/CS50/blob/master/C/resize.c "Resize")
     
 
-![picture alt](https://www.pngitem.com/pimgs/m/493-4938088_html-css-javascript-icons-hd-png-download.png "CSS, HTML and JavaScript") 
+![picture alt](https://yogendra.me/2017/07/20/migration-mania/html-js-css.png "CSS, HTML and JavaScript") 
 * [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5") 
     * [Homepage](https://github.com/mrkwapo/CS50/tree/master/JavaScript/homepage "Homepage") 
  
- ![picture alt](https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png "Python")
+ ![picture alt](https://camo.githubusercontent.com/78f0a9632dbbbf3a7d35c99f3c9ed7b064687118/68747470733a2f2f692e696d6775722e636f6d2f5368656f6159782e706e6729 "Python")
 * [Problem Set 6](https://docs.cs50.net/2019/x/psets/6/index.html "Problem Set 6")
     * [Hello](https://github.com/mrkwapo/CS50/blob/master/Python/hello.py "Hello") 
     * [Mario](https://github.com/mrkwapo/CS50/blob/master/Python/mario.py "mario") 
