@@ -11,17 +11,18 @@ Problem sets 6 completed in Python.
 
 # Problem Sets
 
-C | Javascript | Python
+C | Javascript HTML & CSS | Python
 --|------------|---------
-C | Javascript | Python
-C | Javascript | Python
+[Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") | [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5") | [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5")
+[Problem Set 2](https://docs.cs50.net/2019/x/psets/2/index.html "Problem Set 2") | Javascript | Python
+[Problem Set 3](https://docs.cs50.net/2019/x/psets/3/index.html "Problem Set 3") | Javascript | Python
   
  [Problem Set 1](https://docs.cs50.net/2019/x/psets/1/index.html "Problem Set 1") 
 
- [Problem Set 2](https://docs.cs50.net/2019/x/psets/2/index.html "Problem Set 1") 
+ [Problem Set 2](https://docs.cs50.net/2019/x/psets/2/index.html "Problem Set 2") 
 
- [Problem Set 3](https://docs.cs50.net/2019/x/psets/3/index.html "Problem Set 1") 
+ [Problem Set 3](https://docs.cs50.net/2019/x/psets/3/index.html "Problem Set 3") 
  
- [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 1") 
+ [Problem Set 5](https://docs.cs50.net/2019/x/psets/5/index.html "Problem Set 5") 
   
- [Problem Set 6](https://docs.cs50.net/2019/x/psets/6/index.html "Problem Set 1")
+ [Problem Set 6](https://docs.cs50.net/2019/x/psets/6/index.html "Problem Set 6")
