@@ -1,0 +1,39 @@
+h1 {
+  color: rgb(0, 174, 255);
+  font-family: verdana;
+  font-size: 300%;
+}
+
+p  {
+  color: black;
+  font-family: courier;
+}
+
+.var-highlight{
+    color: rgb(2, 100, 248);
+}
+
+.string-highlight{
+    color: rgba(252, 0, 0, 0.8);
+}
+
+#typewriter{
+        font-size: 2em;
+        margin: 0;
+        font-family: "Courier New";        
+}
+
+@-webkit-keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+@-moz-keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+@keyframes blink{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
