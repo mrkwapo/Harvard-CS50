@@ -1,7 +1,7 @@
 # Harvard CS50 - 2019 Problem Sets
-This repository contains my solutions to Harvard University's CS50 - Introduction to Computer Science.
+This repository contains my solutions to Harvard University's CS50 - Introduction to Computer Science course.
 
-Each problem is grouped by problem set. Click the problem set title to get details for that problem set. Click the problem name to view the algorithm created to solve that problem.
+Each problem is grouped by problem set. To get details for each problem set, click the problem set title. To view the algorithm created to solve that problem, click the problem name.
 
 Problem sets 1-3 are completed in C.
 
